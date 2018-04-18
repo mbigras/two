@@ -1,7 +1,7 @@
 module Two
   class Thing
     def call
-      'hello world!'
+      "I'm a two!"
     end
   end
 end
